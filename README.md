@@ -22,6 +22,8 @@ EcoProof addresses this by combining:
 
 The project demonstrates how **AI/ML and blockchain technologies can be combined for environmental monitoring and data integrity**.
 
+> **Hackathon Project:** Trustistics was developed collaboratively during a hackathon with my teammate, focusing on solving cold-chain integrity and traceability challenges through IoT, blockchain, and cryptographic verification.
+
 ---
 
 ## Key Features
